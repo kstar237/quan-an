@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Tinos);
+body{
+    background-image: url("../img/background.gif");
+    font-family: 'Tinos', serif;
+}
+
+div{
+    margin-left: 200px
+
+}
+h3,h4 {
+    color: red
+}
+h1{
+    color: red;
+    padding-left: 100px;
+}
+img{
+    width: 900px
+}
+p {
+    white-space: pre-line;
+    width: 900px
+}
+p::first-letter {
+   padding-left: 20px;
+}
+b{
+    color: red;
+}
